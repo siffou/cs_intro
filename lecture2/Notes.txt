@@ -1,0 +1,31 @@
+What does a Computer do?
+
+- Performs calculations and has to store them in computer memory => has to remember results.
+Two kinds of calculations
+Type of knowledge: * declarative knowledge is statement of fact: "someone will win a Google cardboard before class ends"
+* imperative knowledge: is a recipe or "how-to".
+
+WHAT IS A RECIPE:
+1. Sequence of simple steps
+2. Flow of control process that specifies when each step is executed
+3. A means of determining when to stop
+
+1+2+3 = an algorithm
+
+Two kinds of computers: - fixed program computer: calculator
+- stored program computer: machine stores and executes instructions
+
+BASIC MACHINE ARCHITECTURE:
+
+MEMORY = data and instructions > CONTROL UNIT(program counter) <=> ARITHMETIC LOGIC UNIT (ALU)(do primitive ops) > INPUT - OUTPUT
+
+PYTHON PROGRAMS:
+* a program is a sequence of definitions and commands:
+  - definitions evaluated
+  - commands executed by Python interpreter in a Shell
+* commands (statements) instruct interpreter to do something
+
+In Python, everything is an Object:
+Objects are:
+  - scalar (cannot be subdivided): Int - float - bool - NoneType
+  - non-scalar (have internal access that can be accessed)
